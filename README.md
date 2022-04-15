@@ -4,6 +4,7 @@ Precision agriculture seeks to define these criteria on a site-by-site basis in 
 However, in agriculture, it is critical that the recommendations made are correct and precise, as errors can result in significant material and capital loss.
 
 
+![gettyimages-1318237749-612x612](https://user-images.githubusercontent.com/63738852/163574176-5bb45562-aa53-43a3-9c84-6eea5b795d9a.jpg)
 
 
 
