@@ -9,14 +9,14 @@ However, in agriculture, it is critical that the recommendations made are correc
 
 ![gettyimages-1318237749-612x612](https://user-images.githubusercontent.com/63738852/163574176-5bb45562-aa53-43a3-9c84-6eea5b795d9a.jpg)
 
-
+This application will assist farmers in increasing agricultural productivity, preventing soil degradation in cultivated land, reducing chemical use in crop production, and maximizing water resource efficiency.
 
 
 How does it work ❓
 
 Complete all the parameters and the machine learning model will predict the most suitable crops to grow in a particular farm based on various parameters.
 
-This application will assist farmers in increasing agricultural productivity, preventing soil degradation in cultivated land, reducing chemical use in crop production, and maximizing water resource efficiency.
+
 
 # Hi, I'm Vishvanath ! 👋
 
