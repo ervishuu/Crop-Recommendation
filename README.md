@@ -1,4 +1,4 @@
-# Crop-Recommendation
+# Crop-Recommendation 🌾🌾🌾
 
 >Note: This A.I application is for educational/demo purposes only and cannot be relied upon
 
